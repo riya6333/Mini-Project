@@ -1,0 +1,12 @@
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\Railway_MiniProject.exe.config
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\Railway_MiniProject.exe
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\Railway_MiniProject.pdb
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\EntityFramework.dll
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\EntityFramework.xml
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\obj\Debug\Railway_MiniProject.csproj.AssemblyReference.cache
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\obj\Debug\Railway_MiniProject.csproj.CoreCompileInputs.cache
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\obj\Debug\Railway_MiniProject.csproj.CopyComplete
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\obj\Debug\Railway_MiniProject.exe
+C:\DailyPractice\Project\Railway_MiniProject\Railway_MiniProject\obj\Debug\Railway_MiniProject.pdb
